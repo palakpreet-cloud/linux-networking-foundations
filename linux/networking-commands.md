@@ -2,7 +2,6 @@
 
 Networking commands are essential for diagnosing connectivity and server issues.
 
----
 
 ## Check IP Address
 
@@ -11,7 +10,6 @@ ip a
 
 Shows network interfaces and IP addresses.
 
----
 
 ## Test Connectivity
 
@@ -20,7 +18,6 @@ ping google.com
 
 Checks if the system can reach an external server.
 
----
 
 ## View Open Ports
 
@@ -29,7 +26,6 @@ ss -tuln
 
 Displays listening ports and active connections.
 
----
 
 ## Fetch Web Content
 
