@@ -34,7 +34,6 @@ curl google.com
 
 Sends HTTP request and retrieves response.
 
----
 
 ## DNS Lookup
 
